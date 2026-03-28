@@ -46,7 +46,7 @@ No additional installations required for any script.
 
 ```bash
 git clone https://github.com/HARDIK-WEB-OSS/oss-audit.git
-cd oss-audit-[24BCE11347]
+cd oss-audit
 ```
 
 ### Step 2 — Make all scripts executable
