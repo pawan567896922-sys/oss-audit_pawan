@@ -3,9 +3,9 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | Hardik Agarwal |
-| **Registration Number** | 24BCE11347 |
-| **Chosen Software** | Linux Kernel |
+| **Name** | Pawan Kumar |
+| **Registration Number** | 24BSA10347 |
+| ** Software** | Linux Kernel |
 | **License** | GNU General Public License v2 (GPL v2) |
 
 ---
